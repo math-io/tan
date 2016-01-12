@@ -7,7 +7,7 @@ Tangent
 The [tangent][tangent] is defined as
 
 <div class="equation" align="center" data-raw-text="\tan x = \frac{\sin x}{\cos x}" data-equation="eq:tangent">
-	<img src="" alt="Tangent definition.">
+	<img src="https://cdn.rawgit.com/math-io/tan/f9232860446e042bb09ded8ae9e707f7648e286d/docs/img/eqn.svg" alt="Tangent definition.">
 	<br>
 </div>
 
