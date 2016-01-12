@@ -1,6 +1,6 @@
 {
   "name": "math-tan",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Computes the tangent of a number.",
   "author": {
     "name": "Athan Reines",
